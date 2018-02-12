@@ -1,6 +1,6 @@
 {
   "name": "inferno-app-rewire-eslint",
-  "version": "0.1.0-alpha.0735c119",
+  "version": "1.4.1",
   "description": "rewire your react-app and use your own esling config",
   "main": "index.js",
   "scripts": {
